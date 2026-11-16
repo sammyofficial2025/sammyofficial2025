@@ -8,7 +8,7 @@
 
 I am an Australian-based technology consultant specialising in enterprise solution architecture, Microsoft business applications, AI enablement and digital transformation.
 
-Over the past six years, I've helped deliver complex technology initiatives across banking, healthcare, government, energy, environmental services and other regulated industries.
+Over the past 20 years, I've helped deliver complex technology initiatives across banking, healthcare, government, energy, environmental services and other regulated industries.
 
 My experience spans the full solution lifecycle, from discovery and architecture through implementation, testing, go-live and production support.
 
