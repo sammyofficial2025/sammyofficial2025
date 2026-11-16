@@ -58,7 +58,7 @@ My focus includes AI strategy, responsible adoption, solution architecture, trai
 
 I also create practical technology education through **Baleelo**, covering artificial intelligence, cloud technologies, enterprise architecture, software engineering careers and professional development.
 
-[YouTube](https://www.youtube.com/@baleelo) · [Website](https://baleelo.com) · [LinkedIn](https://www.linkedin.com/in/sumayyaaslam/)
+[YouTube](https://www.youtube.com/@baleelo) · [Website](https://baleelo.com) 
 
 ---
 
